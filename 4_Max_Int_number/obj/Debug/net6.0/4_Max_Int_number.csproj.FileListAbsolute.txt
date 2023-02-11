@@ -1,0 +1,15 @@
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\bin\Debug\net6.0\4_Max_Int_number.exe
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\bin\Debug\net6.0\4_Max_Int_number.deps.json
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\bin\Debug\net6.0\4_Max_Int_number.runtimeconfig.json
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\bin\Debug\net6.0\4_Max_Int_number.dll
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\bin\Debug\net6.0\4_Max_Int_number.pdb
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\4_Max_Int_number.csproj.AssemblyReference.cache
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\4_Max_Int_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\4_Max_Int_number.AssemblyInfoInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\4_Max_Int_number.AssemblyInfo.cs
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\4_Max_Int_number.csproj.CoreCompileInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\4_Max_Int_number.dll
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\refint\4_Max_Int_number.dll
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\4_Max_Int_number.pdb
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\4_Max_Int_number.genruntimeconfig.cache
+D:\Digital-master\ДЗ\C#_DZ_1\4_Max_Int_number\obj\Debug\net6.0\ref\4_Max_Int_number.dll
