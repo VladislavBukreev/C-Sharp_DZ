@@ -1,0 +1,15 @@
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\6_Деление_без_остатка.csproj.AssemblyReference.cache
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\6_Деление_без_остатка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\6_Деление_без_остатка.AssemblyInfoInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\6_Деление_без_остатка.AssemblyInfo.cs
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\6_Деление_без_остатка.csproj.CoreCompileInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\bin\Debug\net6.0\6_Деление_без_остатка.exe
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\bin\Debug\net6.0\6_Деление_без_остатка.deps.json
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\bin\Debug\net6.0\6_Деление_без_остатка.runtimeconfig.json
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\bin\Debug\net6.0\6_Деление_без_остатка.dll
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\bin\Debug\net6.0\6_Деление_без_остатка.pdb
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\6_Деление_без_остатка.dll
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\refint\6_Деление_без_остатка.dll
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\6_Деление_без_остатка.pdb
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\6_Деление_без_остатка.genruntimeconfig.cache
+D:\Digital-master\ДЗ\C#_DZ_1\6_Деление_без_остатка\obj\Debug\net6.0\ref\6_Деление_без_остатка.dll
