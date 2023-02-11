@@ -9,5 +9,4 @@ int i = 0;
    {
     Console.Write (i + ", ");
    }
-i++;
 }
