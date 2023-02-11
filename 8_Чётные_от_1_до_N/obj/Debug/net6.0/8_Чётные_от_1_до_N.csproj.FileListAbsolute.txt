@@ -1,0 +1,15 @@
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\bin\Debug\net6.0\8_Чётные_от_1_до_N.exe
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\bin\Debug\net6.0\8_Чётные_от_1_до_N.deps.json
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\bin\Debug\net6.0\8_Чётные_от_1_до_N.runtimeconfig.json
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\bin\Debug\net6.0\8_Чётные_от_1_до_N.dll
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\bin\Debug\net6.0\8_Чётные_от_1_до_N.pdb
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\8_Чётные_от_1_до_N.csproj.AssemblyReference.cache
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\8_Чётные_от_1_до_N.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\8_Чётные_от_1_до_N.AssemblyInfoInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\8_Чётные_от_1_до_N.AssemblyInfo.cs
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\8_Чётные_от_1_до_N.csproj.CoreCompileInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\8_Чётные_от_1_до_N.dll
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\refint\8_Чётные_от_1_до_N.dll
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\8_Чётные_от_1_до_N.pdb
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\8_Чётные_от_1_до_N.genruntimeconfig.cache
+D:\Digital-master\ДЗ\C#_DZ_1\8_Чётные_от_1_до_N\obj\Debug\net6.0\ref\8_Чётные_от_1_до_N.dll
