@@ -1,1 +1,1 @@
-﻿int Prompt(string message);
+﻿
