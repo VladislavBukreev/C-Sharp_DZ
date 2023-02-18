@@ -1,0 +1,15 @@
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\Task_10.csproj.AssemblyReference.cache
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfoInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfo.cs
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\Task_10.csproj.CoreCompileInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\bin\Debug\net6.0\Task_10.exe
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\bin\Debug\net6.0\Task_10.deps.json
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\bin\Debug\net6.0\Task_10.runtimeconfig.json
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\bin\Debug\net6.0\Task_10.dll
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\bin\Debug\net6.0\Task_10.pdb
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\Task_10.dll
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\refint\Task_10.dll
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\Task_10.pdb
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\Task_10.genruntimeconfig.cache
+D:\Digital-master\ДЗ\C#_DZ_1\Task_10\obj\Debug\net6.0\ref\Task_10.dll

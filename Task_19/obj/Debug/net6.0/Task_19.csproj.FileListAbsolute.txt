@@ -1,0 +1,5 @@
+D:\Digital-master\ДЗ\C#_DZ_1\Task_19\obj\Debug\net6.0\Task_19.csproj.AssemblyReference.cache
+D:\Digital-master\ДЗ\C#_DZ_1\Task_19\obj\Debug\net6.0\Task_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\ДЗ\C#_DZ_1\Task_19\obj\Debug\net6.0\Task_19.AssemblyInfoInputs.cache
+D:\Digital-master\ДЗ\C#_DZ_1\Task_19\obj\Debug\net6.0\Task_19.AssemblyInfo.cs
+D:\Digital-master\ДЗ\C#_DZ_1\Task_19\obj\Debug\net6.0\Task_19.csproj.CoreCompileInputs.cache
