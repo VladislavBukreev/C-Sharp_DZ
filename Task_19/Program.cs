@@ -19,9 +19,8 @@ bool Numbers(int number)
 }
 int number = Prompt("Введите пятизначное число >");
 
-if(Numbers(number))
-{
-}
+Numbers(number);
+
 string SUKPZDZ = Convert.ToString(number);
 
 char Firstchar = SUKPZDZ[0];
