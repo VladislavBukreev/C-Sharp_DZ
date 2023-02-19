@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Digital-master\\ДЗ\\C#_DZ_1\\Task_19\\Task_19.csproj": {}
+    "D:\\Digital-master\\ДЗ\\C#_DZ\\Task_19\\Task_19.csproj": {}
   },
   "projects": {
-    "D:\\Digital-master\\ДЗ\\C#_DZ_1\\Task_19\\Task_19.csproj": {
+    "D:\\Digital-master\\ДЗ\\C#_DZ\\Task_19\\Task_19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Digital-master\\ДЗ\\C#_DZ_1\\Task_19\\Task_19.csproj",
+        "projectUniqueName": "D:\\Digital-master\\ДЗ\\C#_DZ\\Task_19\\Task_19.csproj",
         "projectName": "Task_19",
-        "projectPath": "D:\\Digital-master\\ДЗ\\C#_DZ_1\\Task_19\\Task_19.csproj",
+        "projectPath": "D:\\Digital-master\\ДЗ\\C#_DZ\\Task_19\\Task_19.csproj",
         "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-        "outputPath": "D:\\Digital-master\\ДЗ\\C#_DZ_1\\Task_19\\obj\\",
+        "outputPath": "D:\\Digital-master\\ДЗ\\C#_DZ\\Task_19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config"

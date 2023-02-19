@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Digital-master\\ДЗ\\C#_DZ_1\\Task_15\\Task_15.csproj",
+      "projectUniqueName": "D:\\Digital-master\\ДЗ\\C#_DZ\\Task_15\\Task_15.csproj",
       "projectName": "Task_15",
-      "projectPath": "D:\\Digital-master\\ДЗ\\C#_DZ_1\\Task_15\\Task_15.csproj",
+      "projectPath": "D:\\Digital-master\\ДЗ\\C#_DZ\\Task_15\\Task_15.csproj",
       "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-      "outputPath": "D:\\Digital-master\\ДЗ\\C#_DZ_1\\Task_15\\obj\\",
+      "outputPath": "D:\\Digital-master\\ДЗ\\C#_DZ\\Task_15\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config"
