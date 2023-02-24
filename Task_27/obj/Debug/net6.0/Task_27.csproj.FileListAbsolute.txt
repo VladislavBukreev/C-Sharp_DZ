@@ -1,0 +1,15 @@
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\Task_27.csproj.AssemblyReference.cache
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\Task_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfoInputs.cache
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfo.cs
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\Task_27.csproj.CoreCompileInputs.cache
+D:\Digital-master\ДЗ\C#_DZ\Task_27\bin\Debug\net6.0\Task_27.exe
+D:\Digital-master\ДЗ\C#_DZ\Task_27\bin\Debug\net6.0\Task_27.deps.json
+D:\Digital-master\ДЗ\C#_DZ\Task_27\bin\Debug\net6.0\Task_27.runtimeconfig.json
+D:\Digital-master\ДЗ\C#_DZ\Task_27\bin\Debug\net6.0\Task_27.dll
+D:\Digital-master\ДЗ\C#_DZ\Task_27\bin\Debug\net6.0\Task_27.pdb
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\Task_27.dll
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\refint\Task_27.dll
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\Task_27.pdb
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\Task_27.genruntimeconfig.cache
+D:\Digital-master\ДЗ\C#_DZ\Task_27\obj\Debug\net6.0\ref\Task_27.dll
