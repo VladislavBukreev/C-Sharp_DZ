@@ -7,10 +7,9 @@ int size = int.Parse(Console.ReadLine());
 Console.WriteLine(" Введите максимальный элемент в массиве : ");
 int random = int.Parse(Console.ReadLine());
 int[] array = NewArray(size);
-int max = 0;
-int min = 0;
+
 Console.WriteLine($"Генерирую новый массив ...  [    {String.Join( ", " , array)}    ]  ");
-Console.WriteLine(MaxMin(max));
+Console.WriteLine(MaxMin(array));
 
 int[] NewArray(int size)
 {
@@ -22,15 +21,16 @@ int[] NewArray(int size)
     return res;
 }
 
-int MaxMin(int[] NewArray)
+ int MaxMin(int[] NewArray)
 {
-  
-    for(int i = 0; i < array.Length; i++)
+int max = 0;
+int min = 0;
+    foreach(int i in array)
     {
-        if(array[i] > max)
-        {
-            max =+ array[i]; 
-        }
+        if(min > i) min = i;
+        if(max < i) max = i;
     }
-return max;
+int result = (max - min);
+return result;
 }
+
