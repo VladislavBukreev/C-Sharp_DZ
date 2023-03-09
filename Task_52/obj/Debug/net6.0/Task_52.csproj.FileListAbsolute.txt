@@ -1,0 +1,15 @@
+D:\Digital-master\ДЗ\C#_DZ\Task_52\bin\Debug\net6.0\Task_52.exe
+D:\Digital-master\ДЗ\C#_DZ\Task_52\bin\Debug\net6.0\Task_52.deps.json
+D:\Digital-master\ДЗ\C#_DZ\Task_52\bin\Debug\net6.0\Task_52.runtimeconfig.json
+D:\Digital-master\ДЗ\C#_DZ\Task_52\bin\Debug\net6.0\Task_52.dll
+D:\Digital-master\ДЗ\C#_DZ\Task_52\bin\Debug\net6.0\Task_52.pdb
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\Task_52.csproj.AssemblyReference.cache
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\Task_52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfoInputs.cache
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfo.cs
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\Task_52.csproj.CoreCompileInputs.cache
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\Task_52.dll
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\refint\Task_52.dll
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\Task_52.pdb
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\Task_52.genruntimeconfig.cache
+D:\Digital-master\ДЗ\C#_DZ\Task_52\obj\Debug\net6.0\ref\Task_52.dll
