@@ -51,13 +51,13 @@ void SortingArray(int[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            for (int k = 0; k < array.GetLength(1) - 1; k++)
+            for (int l = 0; l < array.GetLength(1) - 1; l++)
             {
-                if (array[i, k] < array[i, k + 1])
+                if (array[i, l] < array[i, l + 1])
                 {
-                    int temp = array[i, k + 1];
-                    array[i, k + 1] = array[i, k];
-                    array[i, k] = temp;
+                    int temp = array[i, l + 1];
+                    array[i, l + 1] = array[i, l];
+                    array[i, l] = temp;
                 }
             }
         }
